@@ -10,4 +10,5 @@
 
 ## Тест-кейсы для Интернет-магазина
 
-[Тест-кейсы ](https://github.com/user-attachments/files/20263725/G10-2025-05-17.pdf)
+[Тест-кейсы ]([Тест-кейсы ](https://app.qase.io/project/G10?author=321&previewMode=side&suite=159&tab=properties)
+[Тест-кейсы PDF](https://github.com/user-attachments/files/20263725/G10-2025-05-17.pdf)
