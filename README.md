@@ -14,6 +14,8 @@
 
 [Тест-кейсы PDF](https://github.com/user-attachments/files/20263773/G10-2025-05-17.pdf)
 
+## Отчет о дефектах
+
 [Отчет о дефектах](https://github.com/user-attachments/files/20353138/Issues.2.xlsx) —  содержит отчет о найденных дефектах на основании чек-листа и тестовых кейсов.  
 
 [Отчет о дефектах.pdf](https://github.com/user-attachments/files/20353151/G10-Express%2Brun%2B2025_05_18_removed.pdf)
