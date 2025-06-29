@@ -22,6 +22,8 @@
 
 ## Перехват трафика
 
-[Изменение количества товара в корзине](https://github.com/user-attachments/assets/56f6c019-6db3-4a4d-b362-4449861732f3)
+[Изменение количества товара в корзине](https://drive.google.com/file/d/1qWo4lYCClnCrIYWyZqU0j9k5lyBwir_G/view?usp=sharing)
+
+
 
 
