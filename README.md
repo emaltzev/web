@@ -19,3 +19,9 @@
 [Отчет о дефектах](https://github.com/user-attachments/files/20353138/Issues.2.xlsx) —  содержит отчет о найденных дефектах на основании чек-листа и тестовых кейсов.  
 
 [Отчет о дефектах.pdf](https://github.com/user-attachments/files/20353151/G10-Express%2Brun%2B2025_05_18_removed.pdf)
+
+## Перехват трафика
+
+[Изменение количества товара в корзине](https://github.com/user-attachments/assets/56f6c019-6db3-4a4d-b362-4449861732f3)
+
+
