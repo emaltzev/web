@@ -24,6 +24,8 @@
 
 [Изменение количества товара в корзине](https://drive.google.com/file/d/1qWo4lYCClnCrIYWyZqU0j9k5lyBwir_G/view?usp=sharing)
 
+[Изменение статус-кода c 200 на 403](https://drive.google.com/file/d/10mj3f_EKVjXqNpWDWTNnSxC_OYDMRZ3Z/view?usp=sharing)
 
+[Перенаправление запроса](https://drive.google.com/file/d/16Ut3TYp1kx407REnPIgHUu1FYZh8iP6D/view?usp=sharing)
 
 
